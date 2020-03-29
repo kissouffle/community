@@ -41,17 +41,15 @@ projects:
     link: https://github.com/lnazar/community
     finished: true
 ---
-
   - title: GitHub
     description: Fork du dépôt community d'OC sur mon GitHub. 
-    image: laurent/projet_3.png
+    image: laurent/projet_2.png
     https://github.com/lnazar/community
     finished: true
 ---
-
   - title: LinkedIn
     description: Le lien vers mon LinkedIn. 
-    image: laurent/projet_2.png
+    image: laurent/projet_3.png
     link: www.linkedin.com/in/laurent-nazar
     finished: true
 ---
