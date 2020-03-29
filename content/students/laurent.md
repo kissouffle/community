@@ -8,7 +8,7 @@ title: laurent
 
 # First name or full name
 name: Laurent
-date: 2020-03-18 23:00
+date: 2020-03-29 23:00
 
 # One line.
 # If you need more space, go to the next line and add 4 spaces on the left, as in 'description'.
@@ -43,7 +43,7 @@ projects:
   - title: GitHub
     description: Fork du dépôt community d'OC sur mon GitHub. 
     image: laurent/projet_2.png
-    https://github.com/lnazar/community
+    link: https://github.com/lnazar/community
     finished: true
   - title: LinkedIn
     description: Le lien vers mon LinkedIn. 
